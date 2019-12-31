@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BreakoutGame</string>
+    <string name="title_activity_breakout_game">BreakoutGame</string>
+</resources>
